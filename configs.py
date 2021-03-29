@@ -20,13 +20,9 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📝 **Language:** [Python3](https://www.python.org)
 
-📚 **Library:** [Pyrogram](https://docs.pyrogram.org)
-
-📡 **Hosted on:** [Heroku](https://heroku.com)
-
 👥 **Request Group:** [Request Group](https://t.me/joinchat/UIuf3-u7aU7dVqLV)
 
-📢 **Updates Channel:** [Series Corner](https://t.me/Series_Corner)
+📢 **Series Channel:** [Series Corner](https://t.me/Series_Corner)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** Series Corner Admin
@@ -35,7 +31,7 @@ Developer is Super Noob. Just Learning from Official Docs. Please Donate the dev
 
 """
 	HOME_TEXT = """
-Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
+Hi, [{}](tg://user?id={})\n\nThis is **@Series_Corner Files Bot**.
 
-Send me any file I will give you a permanent Sharable Link. I Support Channel Also! Check **About Bot** Button.
+Send me any file I will give you a permanent Sharable Link. I Support Channel Also! Check About Bot Button.
 """
